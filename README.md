@@ -1,3 +1,6 @@
+![Demo](https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif)
+
+
 # 💫 About Me:
 I'm currently a student as well as intern looking for many self improvement internships.<br>I build things. Sometimes those things are complex web applications, sometimes they are ideas I'm still trying to execute.<br>This consistency shows that I'm obsessed with understanding how technology actually works, not just how it's marketed.<br>I also done my internships on "Web development " and figuring that how a web application works.
 
