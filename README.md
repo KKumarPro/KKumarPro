@@ -36,9 +36,6 @@ I'm currently a student as well as intern looking for many self improvement inte
 ---
 [![](https://visitcount.itsvg.in/api?id=KKumarPro&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
-[![](https://visitcount.itsvg.in/api?id=KKumarPro&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 
 📫 How to Reach Me  
