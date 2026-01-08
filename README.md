@@ -6,7 +6,7 @@
  
 Welcome to my GitHub corner — where creativity meets code! 🚀<br>
 I'm passionate about building things that not only work well but also look good and feel intuitive.<br>
-I'm currently a student as well as intern looking for many self improvement internships.<br>I build things. Sometimes those things are complex web applications, sometimes they are ideas I'm still trying to execute.<br>This consistency shows that I'm obsessed with understanding how technology actually works, not just how it's marketed.<br>I also done my internships on "Web development" and figuring that how a web application works.
+I'm currently a student as well as intern looking for many self improvement internships.<br>I build things. Sometimes those things are complex web applications, sometimes they are ideas I'm still trying to execute.<br>This consistency shows that I'm obsessed with understanding how technology actually works, not just how it's marketed.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karan-kumar-305925282) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karan112311kumar@gmail.com) 
