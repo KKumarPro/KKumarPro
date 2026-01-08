@@ -1,4 +1,4 @@
-![Demo](https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif)
+<!--![Demo](https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif)-->
 
 
 # 💫 About Me:
@@ -31,17 +31,14 @@ I'm currently a student as well as intern looking for many self improvement inte
 ![](https://nirzak-streak-stats.vercel.app/?user=KKumarPro&theme=default_repocard&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KKumarPro&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=KKumarPro&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-[![](https://visitcount.itsvg.in/api?id=KKumarPro&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-# ✍️ Random Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+[![](https://visitcount.itsvg.in/api?id=KKumarPro&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+[![](https://visitcount.itsvg.in/api?id=KKumarPro&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 📫 How to Reach Me  
