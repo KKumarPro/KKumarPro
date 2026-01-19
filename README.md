@@ -35,8 +35,11 @@ I'm currently a student as well as intern looking for many self improvement inte
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KKumarPro&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🧠 HackerRank
-![](https://github-readme-hackerrank.vercel.app/api/hackerrank?username=karan112311kumar)
-
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/karan112311kumar)
+- ⭐ **Problem Solving**
+- ⭐ **Java**
+- ⭐ **HTML**
+- ⭐ **CSS**
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
